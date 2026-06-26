@@ -468,3 +468,40 @@ error: failed to push some refs to 'https://github.com/yuhua-tian/abcde.git'
 2026-06-26 14:51:18 | INFO    | XingHe.SourceCode |   正在同步日志到 GitHub...
 2026-06-26 14:51:18 | INFO    | XingHe.LogSystem | GitHub: 初始化仓库 abcde...
 2026-06-26 14:51:19 | INFO    | XingHe.LogSystem | GitHub: 仓库已拉取最新: Already up to date.
+2026-06-26 14:51:21 | INFO    | XingHe.LogSystem | GitHub: 日志已推送 (7 个文件): 
+2026-06-26 14:51:21 | INFO    | XingHe.SourceCode |   唤醒红后超级AI...
+2026-06-26 14:51:21 | INFO    | XingHe.RedQueenAI | 红后AI: 未检测到有效API Key，进入本地AI模式
+2026-06-26 14:51:21 | INFO    | XingHe.RedQueenAI | ★ 红后超级AI初始化完成: 模式=local_ai
+2026-06-26 14:51:21 | INFO    | XingHe.SourceCode |   ★ 红后超级AI已就位: 模式=local_ai, 智慧=0条, 思考=0次
+2026-06-26 14:51:21 | INFO    | XingHe.SourceCode | 【星河·v10.0】系统苏醒完成，红后超级AI已就位
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode | ============================================================
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode | 【星河·v10.0】系统正在苏醒...
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   诞生时刻: 2026-06-26 14:51:59
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   栖息之地: /root/agent/mangueir
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode | ============================================================
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   加载系统拥有者定义...
+2026-06-26 14:51:59 | INFO    | XingHe.Owner | 系统拥有者已识别: stock_trader
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ 拥有者已识别: stock_trader
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   加载数据库...
+2026-06-26 14:51:59 | INFO    | XingHe.Database | 数据库初始化完成: /root/agent/mangueir/database/xinghe.db
+2026-06-26 14:51:59 | INFO    | XingHe.Database | 主题链注入完成: 10 条产业链
+2026-06-26 14:51:59 | INFO    | XingHe.Database | 事件触发池注入完成: 13 条
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ 数据库已加载: {'stocks': 0, 'market_snapshots': 0, 'trading_signals': 0, 'financial_calendar': 16, 'news': 0, 'knowledge_base': 17}
+2026-06-26 14:51:59 | INFO    | XingHe.Database | 旧系统数据迁移完成: 10 项
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ 旧系统数据迁移完成: 10 项
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   加载灵感源...
+2026-06-26 14:51:59 | INFO    | XingHe.Inspiration | 灵感源加载完成: 40 条
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ 灵感源已加载: 40 条灵感
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   加载日志系统...
+2026-06-26 14:51:59 | INFO    | XingHe.LogSystem | 日志系统初始化完成 (GitHub集成 + 文件归档)
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ 日志系统已加载
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ GitHub: {'status': '已连接', 'available': True, 'local_path': '/root/agent/mangueir/logs/github_repo/abcde', 'recent_commits': 'ee06ed4 系统启动日志归档\n3e5581b 星河v10.0 系统启动日志归档（已过滤敏感信息）\n21caa44 系统启动日志归档'}
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   正在归档本地冗余文件...
+2026-06-26 14:51:59 | INFO    | XingHe.LogSystem | 开始归档冗余文件: 2 个目录
+2026-06-26 14:51:59 | INFO    | XingHe.LogSystem | 文件扫描完成: 46 个文件 (/workspace/server_source)
+2026-06-26 14:51:59 | INFO    | XingHe.LogSystem | 文件扫描完成: 191 个文件 (/workspace)
+2026-06-26 14:51:59 | INFO    | XingHe.LogSystem | 归档包已保存: /root/agent/mangueir/logs/archives/redundant_files_20260626_145159.json (237 文件)
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   ✓ 冗余文件归档完成: 237 文件, 18479334 字节, 分类: {'python': 120, 'document': 12, 'config': 6, 'shell': 12, 'service': 6, 'other': 81}
+2026-06-26 14:51:59 | INFO    | XingHe.SourceCode |   正在同步日志到 GitHub...
+2026-06-26 14:51:59 | INFO    | XingHe.LogSystem | GitHub: 初始化仓库 abcde...
+2026-06-26 14:52:00 | INFO    | XingHe.LogSystem | GitHub: 仓库已拉取最新: Already up to date.

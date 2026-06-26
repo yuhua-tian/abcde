@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-26T14:51:19.341920",
+  "updated_at": "2026-06-26T14:52:00.182285",
   "files": [
     {
       "name": "archives.log",
-      "size": 900,
-      "modified": "2026-06-26T14:51:18.511140"
+      "size": 1113,
+      "modified": "2026-06-26T14:51:59.359202"
     },
     {
       "name": "diagnostics.log",
@@ -27,14 +27,19 @@
       "modified": "2026-06-26T14:51:18.511140"
     },
     {
+      "name": "redundant_files_20260626_145159.json",
+      "size": 705457,
+      "modified": "2026-06-26T14:51:59.359202"
+    },
+    {
       "name": "reports.log",
       "size": 0,
       "modified": "2026-06-26T14:07:55.527261"
     },
     {
       "name": "system.log",
-      "size": 45001,
-      "modified": "2026-06-26T14:51:19.335142"
+      "size": 48986,
+      "modified": "2026-06-26T14:52:00.175203"
     }
   ]
 }
