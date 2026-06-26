@@ -422,3 +422,13 @@ error: failed to push some refs to 'https://github.com/yuhua-tian/abcde.git'
 2026-06-26 14:44:09 | INFO    | XingHe.SourceCode |   正在同步日志到 GitHub...
 2026-06-26 14:44:09 | INFO    | XingHe.LogSystem | GitHub: 初始化仓库 abcde...
 2026-06-26 14:44:10 | INFO    | XingHe.LogSystem | GitHub: 仓库已拉取最新: Already up to date.
+2026-06-26 14:44:13 | INFO    | XingHe.LogSystem | GitHub: 日志已推送 (5 个文件): 
+2026-06-26 14:44:13 | INFO    | XingHe.SourceCode |   唤醒红后超级AI...
+2026-06-26 14:44:13 | INFO    | XingHe.RedQueenAI | 红后AI: 未检测到有效API Key，进入本地AI模式
+2026-06-26 14:44:13 | INFO    | XingHe.RedQueenAI | ★ 红后超级AI初始化完成: 模式=local_ai
+2026-06-26 14:44:13 | INFO    | XingHe.SourceCode |   ★ 红后超级AI已就位: 模式=local_ai, 智慧=0条, 思考=0次
+2026-06-26 14:44:13 | INFO    | XingHe.SourceCode | 【星河·v10.0】系统苏醒完成，红后超级AI已就位
+2026-06-26 14:44:13 | INFO    | XingHe.LogSystem | 开始归档冗余文件: 2 个目录
+2026-06-26 14:44:13 | INFO    | XingHe.LogSystem | 文件扫描完成: 46 个文件 (/workspace/server_source)
+2026-06-26 14:44:13 | INFO    | XingHe.LogSystem | 文件扫描完成: 186 个文件 (/workspace)
+2026-06-26 14:44:13 | INFO    | XingHe.LogSystem | 归档包已保存: /root/agent/mangueir/logs/archives/redundant_files_20260626_144413.json (232 文件)
